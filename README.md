@@ -34,7 +34,7 @@ The Job Finding Application is a robust platform designed to assist job seekers 
   
 ## Technologies Used
 
-- Frontend: React, Bootstrap
+- Frontend: React
 - Backend: Node.js, Express
 - Database: MongoDB
 
