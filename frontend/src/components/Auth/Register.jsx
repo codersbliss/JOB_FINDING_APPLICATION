@@ -119,7 +119,7 @@ const Register = () => {
             <button type="submit" onClick={handleRegister}>
               Register
             </button>
-            <Link to={"/login"}>Login Now</Link>
+            <Link to={"/login"}>Login </Link>
           </form>
         </div>
         <div className="banner">
