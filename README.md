@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Job Finding Application is a robust platform designed to assist job seekers in finding employment opportunities and help employers post job openings. The application features a user-friendly interface for job searches, applications, and job postings.
+The Job Finding Application is a robust platform designed to assist job seekers in finding employment opportunities and help employers post job openings. The application features a user-friendly interface for  applications, and job postings.
 
 ## Features
 
